@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development, artificial intelligence, and cybersecurity.
 - 🌱 I’m currently learning data structures and algorithms, web development, and machine learning.
 - 💞️ I’m looking to collaborate on open-source projects related to Python, Java, or web development.
-- 📫 You can reach me via email at (maailto:a.aligohar215168@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-gohar-gohar-226583310/).
+- 📫 You can reach me via email at (maailto:a.aligohar215168@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-gohar-gohar-226583310/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
