@@ -62,8 +62,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliGohar2151&show_icons=true&theme=default" alt="Ali's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliGohar2151" alt="Ali's GitHub streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=AliGohar2151&show_icons=true&theme=default" alt="Ali's GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliGohar2151&layout=compact&theme=default" alt="Ali's top languages" height="165"/>
 </p>
 
 ---
