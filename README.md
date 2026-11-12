@@ -1,115 +1,83 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:512BD4&height=200&section=header&text=Ali%20Gohar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jr.%20Software%20Engineer%20(.Net%20Core)%20%7C%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=19" alt="Ali Gohar banner" />
-</p>
+# Ali Gohar
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=680&lines=ASP.NET+Core+%C2%B7+Django+%C2%B7+Node.js+%C2%B7+Next.js;Secure%2C+scalable+REST+APIs+%26+concurrent+systems;Clean+architecture+%26+production+deployments" alt="Typing animation" />
-  </a>
-</p>
+**Jr. Software Engineer (.Net Core)** at **AKSA-SDS** · **Back End Developer** at **Tecekip**  
+Rawalpindi / Islamabad, Pakistan
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-gohar-226583310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dev.aligohar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.nuget.org/packages/ConcurrentJobEngine"><img src="https://img.shields.io/badge/NuGet-ConcurrentJobEngine-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet ConcurrentJobEngine"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance-2EA043?style=for-the-badge" alt="Open to freelance"/>
-  <img src="https://komarev.com/ghpvc/?username=AliGohar2151&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ali-gohar-226583310/) · [NuGet (`ConcurrentJobEngine`)](https://www.nuget.org/packages/ConcurrentJobEngine) · [Live Production (`amsc.pac.org.pk`)](https://amsc.pac.org.pk) · [Email](mailto:dev.aligohar@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+I design and ship **production backend systems, concurrent .NET engines, and full-stack web platforms** across **C# / ASP.NET Core**, **Python / Django**, and **Node.js / TypeScript**. My work focuses on clean architecture, authentication & RBAC, resilient messaging/job processing, and predictable deployments.
 
-Backend & Full-Stack Engineer specializing in **ASP.NET Core (.NET 8–10)**, **Django / DRF**, and **Node.js / TypeScript**, focused on secure REST APIs, high-concurrency backend systems, and production deployments.
+### Currently
 
-- 🟣 **Jr. Software Engineer (.Net Core)** at **AKSA-SDS** *(Islamabad · previously Dotnet Developer)*
-- 🏢 **Back End Developer (Freelance)** at **Tecekip** *(1.5+ yrs across backend engineering & data pipelines)*
-- 📦 Author of **[ConcurrentJobEngine](https://github.com/AliGohar2151/ConcurrentJobEngine)** — published on **[NuGet](https://www.nuget.org/packages/ConcurrentJobEngine)** for .NET 8 / 9 / 10
-- 🔐 I ship production APIs with **JWT authentication, RBAC, third-party & payment integrations, and Docker**
-- 🧠 Comfortable both at the ORM layer (**EF Core, Prisma, Django ORM**) and under the hood (**ADO.NET + stored procedures, query tuning**)
-- 🌱 Currently exploring: **event-driven .NET architectures**, **high-concurrency worker pools**, and **Next.js + shadcn/ui admin systems**
-- 📍 Rawalpindi / Islamabad, Pakistan 🇵🇰
+- **Jr. Software Engineer (.Net Core) @ AKSA-SDS** — Building enterprise server-side systems, RESTful Web APIs, and SQL Server / EF Core data layers *(promoted Nov 2026 after Dotnet Developer)*.
+- **Back End Developer (Freelance) @ Tecekip** — Architecting scalable Python/Node.js APIs, payment & third-party integrations, Docker deployments, and database optimization *(1.5+ yrs)*.
+- **Open Source** — Maintaining [**ConcurrentJobEngine**](https://github.com/AliGohar2151/ConcurrentJobEngine) on NuGet for .NET 8 / 9 / 10.
 
 ---
 
-## 🧰 Tech Stack
+### Selected Projects
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs,py,ts,js,postgres&theme=dark" alt="Languages"/>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AliGohar2151/ConcurrentJobEngine">ConcurrentJobEngine</a></strong> <sup><code>NuGet</code></sup><br />
+      <sub>In-process concurrent job processing engine for .NET 8/9/10 with priority scheduling, bounded worker pools, exponential backoff + jitter retries, backpressure, dead-letter store, and graceful shutdown.</sub><br /><br />
+      <code>C#</code> <code>.NET 8–10</code> <code>Concurrency</code> <code>Metrics</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AliGohar2151/EventDrivenE-Commerce">EventDrivenE-Commerce</a></strong> <sup><code>81 tests</code></sup><br />
+      <sub>Event-driven e-commerce backend built on .NET 10 featuring Outbox/Inbox reliability, JWT refresh rotation, RBAC policies, optimistic inventory locking, and idempotent payment processing.</sub><br /><br />
+      <code>C#</code> <code>.NET 10</code> <code>Outbox/Inbox</code> <code>Docker</code>
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dotnet,django,nodejs,express,nestjs&theme=dark" alt="Backend"/>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AliGohar2151/FoodFlowAPI">FoodFlowAPI</a></strong> <sup><code>276 tests</code></sup><br />
+      <sub>Modular-monolith multi-vendor food delivery REST API engineered with strict TypeScript, role-based access control, and Docker-backed PostgreSQL &amp; Redis infrastructure.</sub><br /><br />
+      <code>Node.js</code> <code>Express 5</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Redis</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AliGohar2151/open-commerce-admin">open-commerce-admin</a></strong><br />
+      <sub>Admin dashboard and multi-location inventory management platform with real-time stock transfers, variant matrix generation, audit feeds, and 2FA/API key security controls.</sub><br /><br />
+      <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind v4</code> <code>shadcn/ui</code>
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AliGohar2151/core-backend-starter">core-backend-starter</a></strong><br />
+      <sub>Modular SaaS REST starter with JWT refresh token rotation, declarative RBAC synced via Prisma seed, Zod DTO validation, standardized error hierarchy, and a module generator CLI.</sub><br /><br />
+      <code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>MySQL 8</code> <code>Zod</code>
     </td>
-  </tr>
-  <tr>
-    <td><b>Data &amp; ORMs</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" alt="Databases"/>
-      &nbsp;<sub>EF Core · ADO.NET · Django ORM · SQL Server</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps &amp; Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,gcp,aws,git,github&theme=dark" alt="DevOps"/>
+    <td width="50%" valign="top">
+      <strong><a href="https://amsc.pac.org.pk">AMSC Kamra Portal</a></strong> <sup><code>Production</code></sup><br />
+      <sub>End-to-end training &amp; learning management portal for Pakistan Aeronautical Complex (PAC) Kamra with multi-tier RBAC, enrollment workflows, and optimized PostgreSQL queries.</sub><br /><br />
+      <code>Python</code> <code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧩 Featured Projects
+### Technical Stack
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[ConcurrentJobEngine](https://github.com/AliGohar2151/ConcurrentJobEngine)** | Open-source NuGet library: in-process concurrent job engine with priority queues, worker pool, exponential backoff + jitter retries, backpressure, dead-letter store, and metrics. | C# · .NET 8 / 9 / 10 · NuGet |
-| **[EventDrivenE-Commerce](https://github.com/AliGohar2151/EventDrivenE-Commerce)** | Production-grade event-driven e-commerce backend with Outbox/Inbox reliability, JWT + RBAC, idempotent payments, and 81 passing tests. | C# · .NET 10 · Docker |
-| **[FoodFlowAPI](https://github.com/AliGohar2151/FoodFlowAPI)** | Modular-monolith multi-vendor food delivery REST API with 276 passing tests. | Node.js · Express · TypeScript · PostgreSQL · Redis · Docker |
-| **[open-commerce-admin](https://github.com/AliGohar2151/open-commerce-admin)** | Shopify-grade admin dashboard &amp; multi-location inventory management platform. | Next.js 16 · React 19 · TypeScript · Tailwind v4 · shadcn/ui |
-| **[core-backend-starter](https://github.com/AliGohar2151/core-backend-starter)** | Modular SaaS/API starter with JWT refresh rotation, declarative RBAC, Zod DTO validation, and module generator CLI. | Node.js · Express · TypeScript · Prisma · MySQL · Docker |
-| **[AMSC Kamra](https://amsc.pac.org.pk)** | Live production learning &amp; training management portal for Pakistan Aeronautical Complex (PAC) Kamra. | Django · DRF · React · PostgreSQL |
+| Area | Technologies |
+| :--- | :--- |
+| **Backend & Systems** | `C#` · `ASP.NET Core` · `.NET 8–10` · `Python` · `Django / DRF` · `Node.js` · `Express` · `NestJS` |
+| **Frontend & UI** | `TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `shadcn/ui` |
+| **Data & Messaging** | `PostgreSQL` · `SQL Server` · `MySQL` · `MongoDB` · `Redis` · `EF Core` · `ADO.NET` · `Prisma` · `Django ORM` |
+| **DevOps & Quality** | `Docker` · `GitHub Actions` · `GCP` · `AWS S3` · `xUnit` · `Pytest` · `BenchmarkDotNet` |
 
 ---
 
-## ⚙️ How I Work
+### Engineering Approach
 
-- **Clean architecture &amp; software construction.** Clear boundaries, thin controllers, testable domain logic.
-- **Security by default.** JWT auth, refresh rotation, RBAC, DTO validation, and structured logging from day one.
-- **Performance &amp; reliability.** Eliminating N+1 queries, handling backpressure/retries, and verifying with automated tests.
-- **Ship and maintain.** Dockerized, CI-checked, deployed, and monitored — not just "works on my machine".
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AliGohar2151&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliGohar2151&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliGohar2151&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+- **Architecture over boilerplate.** Clear module boundaries, thin controllers, DTO validation, and testable domain services.
+- **Security & correctness by default.** JWT with refresh rotation, granular RBAC, idempotency keys, and safe concurrency primitives.
+- **Performance from the query up.** Eliminate N+1 bottlenecks, use raw `ADO.NET` + stored procedures or tuned ORM queries when throughput demands it.
+- **Verified before shipping.** Automated unit/integration tests, CI pipelines, and containerized parity across local and production.
 
 ---
 
-## 🤝 Let's Work Together
-
-I'm available for freelance **API development, .NET / Django / Node.js backend architecture, and full-stack builds**. Reach me at **[dev.aligohar@gmail.com](mailto:dev.aligohar@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/ali-gohar-226583310/).
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0F172A&height=100&section=footer" alt="footer"/>
-</p>
+Open to select **backend architecture, .NET / Django / Node.js APIs, and full-stack builds** — reach out at **dev.aligohar@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/ali-gohar-226583310/).
